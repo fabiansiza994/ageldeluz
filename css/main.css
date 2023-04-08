@@ -740,3 +740,20 @@ label.error {
   right: 25px;
   z-index: 9;
 }
+
+.whatsapp {
+  position:fixed;
+  width:60px;
+  height:100px;
+  bottom:40px;
+  right:20px;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  z-index:100;
+}
+
+.whatsapp-icon {
+  margin-top:13px;
+}
