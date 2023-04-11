@@ -762,3 +762,8 @@ label.error {
   background-color: #000;
   color: #fff;
 }
+
+iframe {
+  max-width: 100%;
+  height: auto;
+}
